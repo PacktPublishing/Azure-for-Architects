@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * See Cloud architecture and the deployment pipeline
 * Understand cost management for Azure solutions
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789134323) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788397398) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -40,6 +40,7 @@ Node WebServer {
 **Following is what you need for this book:**
 This book assumes a basic level of knowledge on cloud computing and Azure. All you need is a valid Azure subscription and internet connectivity to use this book. A Windows 10 operating system having 4 GB of RAM is sufficient for using Powershell and executing ARM templates.
 
+
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/AzureforArchitects_ColorImages.pdf).
 
 
@@ -51,7 +52,7 @@ He has spoken at more than 15 conferences, including TechEd and the PowerShell A
 
 Ritesh currently lives in Hyderabad, India.
 
-# Other book by the author
+## Other book by the author
 * [DevOps with Windows Server 2016](https://www.packtpub.com/networking-and-servers/devops-windows-server-2016?utm_source=github&utm_medium=repository&utm_campaign=9781786468550)
 
 ### Suggestions and Feedback
