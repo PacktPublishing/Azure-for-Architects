@@ -1,8 +1,8 @@
 # Azure for Architects
 
-<a href="https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789539974"><img src="https://www.packtpub.com/sites/default/files/9781789539974.png" alt="Effective DevOps with AWS Second Edition" height="256px" align="right"></a>
+<img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/1495/2018/06/cover-1.png" alt="Azure for Architects" height="256px" align="right"></a>
 
-This is the code repository for [Effective DevOps with AWS Second Edition](https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789539974), published by Packt.
+This is the code repository for <b> Azure for Architects </b>, published by Packt.
 
 **Implementing cloud design, DevOps, IoT, and serverless solutions on your public cloud**
 
