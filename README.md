@@ -1,8 +1,8 @@
 # Azure for Architects
 
-<img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/1495/2018/06/cover-1.png" alt="Azure for Architects" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/virtualization-and-cloud/azure-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788397391"><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/1495/2018/06/cover-1.png" alt="Azure for Architects" height="256px" align="right"></a>
 
-This is the code repository for <b> Azure for Architects </b>, published by Packt.
+This is the code repository for [Azure for Architects](https://www.packtpub.com/virtualization-and-cloud/azure-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788397391), published by Packt.
 
 **Implementing cloud design, DevOps, IoT, and serverless solutions on your public cloud**
 
