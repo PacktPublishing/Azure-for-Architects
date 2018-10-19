@@ -23,20 +23,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-## Instructions and Navigations
-
-The code will look like the following:
-```
-Import-DscResource -ModuleName 'PSDesiredStateConfiguration'
-Node WebServer {
-  WindowsFeature IIS
-    {
-        Name = "Web-Server"
-        Ensure = "Present"
-    } 
-
-```
-
 **Following is what you need for this book:**
 This book assumes a basic level of knowledge on cloud computing and Azure. All you need is a valid Azure subscription and internet connectivity to use this book. A Windows 10 operating system having 4 GB of RAM is sufficient for using Powershell and executing ARM templates.
 
