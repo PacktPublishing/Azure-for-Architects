@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Azure for Architects
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/azure-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788397391"><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/1495/2018/06/cover-1.png" alt="Azure for Architects" height="256px" align="right"></a>
